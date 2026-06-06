@@ -18,10 +18,10 @@ const labelsFirst = [
 ];
 
 const labelsSecond = [
-    "Gestión de Incidencias",
+    "GestiÃ³n de Incidencias",
     "Pruebas Exploratorias",
     "Control de Calidad UX / UI",
-    "Inspección y Depuración de Código(Debugging)",
+    "InspecciÃ³n y DepuraciÃ³n de CÃ³digo(Debugging)",
     
 ];
 
@@ -41,9 +41,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Desarrollo Web Full-Stack</h3>
-                        <p>Tengo experiencia en el desarrollo independiente y a medida de sistemas web comerciales y plataformas interactivas desde cero. Domino la creación de arquitecturas backend estables, interfaces de usuario dinámicas y responsivas, así como la integración de mecánicas de gamificación.</p>
+                        <p>I have experience in the independent and custom development of commercial web systems and interactive platforms from scratch. I am proficient in creating stable backend architectures, dynamic and responsive user interfaces, and integrating gamification mechanics.</p>
                     <div className="flex-chips">
-                            <span className="chip-title">Tecnologías:</span>
+                            <span className="chip-title">TecnologÃ­as:</span>
                         {labelsFirst.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -53,9 +53,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                         <h3>Tester QA </h3>
-                        <p>Ejecuto pruebas funcionales y exploratorias en aplicaciones web y móviles para descubrir fallas lógicas y errores críticos. Evalúo la experiencia de usuario (UX) e interfaces (UI) asegurando la adaptabilidad en pantallas móviles, la consistencia visual y documentando de manera clara los reportes de errores (bugs). </p>
+                        <p>Ejecuto pruebas funcionales y exploratorias en aplicaciones web y mÃ³viles para descubrir fallas lÃ³gicas y errores crÃ­ticos. EvalÃºo la experiencia de usuario (UX) e interfaces (UI) asegurando la adaptabilidad en pantallas mÃ³viles, la consistencia visual y documentando de manera clara los reportes de errores (bugs). </p>
                     <div className="flex-chips">
-                            <span className="chip-title">Tecnologías:</span>
+                            <span className="chip-title">TecnologÃ­as:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -64,10 +64,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                        <h3>Gestión de Bases de Datos y Lógica SQL</h3>
-                        <p>Estructuro, administro y optimizo bases de datos relacionales multisede para garantizar la integridad de los datos y la fluidez de las transacciones. Cuento con capacidad para diseñar procesos SQL complejos y consultas optimizadas para el control de inventarios y stock.</p>
+                        <h3>GestiÃ³n de Bases de Datos y LÃ³gica SQL</h3>
+                        <p>Estructuro, administro y optimizo bases de datos relacionales multisede para garantizar la integridad de los datos y la fluidez de las transacciones. Cuento con capacidad para diseÃ±ar procesos SQL complejos y consultas optimizadas para el control de inventarios y stock.</p>
                     <div className="flex-chips">
-                            <span className="chip-title">Tecnologías:</span>
+                            <span className="chip-title">TecnologÃ­as:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
