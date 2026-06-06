@@ -21,12 +21,12 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/vEvelin/sistema-inventario" target="_blank" rel="noreferrer"><img src={mock20} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/vEvelin/sistema-inventario" target="_blank" rel="noreferrer"><h2>Sitema de Control de Inventario</h2></a>
-                <p>DesarrollÈ un sistema a medida para el control y administraciÛn de una tienda mayorista utilizando PHP, XAMPP. Implementando una interfaz de usuario responsiva y din·mica con HTML5, CSS3, Bootstrap y JavaScript nativo para gestionar ventas en tiempo real sin recargas. Incluye el modelado y optimizaciÛn de una base de datos relacional en MySQL para el control eficiente de stock, productos y proveedores.</p>
+                <p>Desarroll√© un Sistema a medida para el control y administraci√≥n de una tienda mayorista utilizando PHP, XAMPP. Implementando una interfaz de usuario responsiva y din√°mica con HTML5, CSS3, Bootstrap y JavaScript nativo para gestionar ventas en tiempo real sin recargas. Incluye el modelado y optimizaci√≥n de una base de datos relacional en MySQL para el control eficiente de stock, productos y proveedores.</p>
             </div>
             <div className="project">
                 <a href="https://vevelin.github.io/webRecigalo/index.html" target="_blank" rel="noreferrer"><img src={mock21} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://vevelin.github.io/webRecigalo/index.html" target="_blank" rel="noreferrer"><h2>"RECÕGALO"</h2></a>
-                <p>DesarrollÈ una plataforma web responsiva orientada a la concientizaciÛn ambiental mediante el diseÒo de interfaces interactivas con HTML5 y CSS3. ImplementÈ din·micas de gamificaciÛn integrando JavaScript nativo para animaciones lÛgicas y mec·nicas de juego en el navegador. DespleguÈ un videojuego educativo interactivo desarrollado en Construct 2 enfocado en la restauraciÛn de entornos ecolÛgicos.</p>
+                <a href="https://vevelin.github.io/webRecigalo/index.html" target="_blank" rel="noreferrer"><h2>"REC√çGALO"</h2></a>
+                <p>Desarroll√© una plataforma web responsiva orientada a la concientizaci√≥n ambiental mediante el dise√±o de interfaces interactivas con HTML5 y CSS3. Implement√© din√°micas de gamificaci√≥n integrando JavaScript nativo para animaciones l√≥gicas y mec√°nicas de juego en el navegador. Desplegu√© un videojuego educativo interactivo desarrollado en Construct 2 enfocado en la restauraci√≥n de entornos ecol√≥gicos.</p>
             </div>
            
          
